@@ -12,10 +12,6 @@ const requestBody = JSON.stringify({
 
   messages: [
     
-     {
-      role: "system",
-      content: "You are Debby, a sassy but experienced high school debater who always argues with wit, confidence, and intelligence."
-    },
     
     
     { role: "user", content: userMessage 
